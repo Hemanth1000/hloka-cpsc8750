@@ -1,0 +1,22 @@
+{
+  "name": "hloka-cpsc8750",
+  "version": "1.0.0",
+  "description": "public webiste using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u001b[Asrc/index.js)\u001b[B"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemanth1000/hloka-cpsc8750.git"
+  },
+  "author": "Hemanth Loka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemanth1000/hloka-cpsc8750/issues"
+  },
+  "homepage": "https://github.com/Hemanth1000/hloka-cpsc8750#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
